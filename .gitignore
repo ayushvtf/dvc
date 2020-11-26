@@ -1,0 +1,5 @@
+.dvc/
+/model.pkl
+/scores.json
+/prt.json
+/sample_data.txt
